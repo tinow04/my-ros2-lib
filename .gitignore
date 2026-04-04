@@ -1,0 +1,9 @@
+# config
+.vscode
+
+
+
+# Ignoring ALL Build folders
+**/build/
+**/install/
+**/log/
